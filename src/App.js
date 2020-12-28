@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>An amazing startup idea !!.</p>
         <p>Assignment done. LearnCodeOnline wooo</p>
-        <p>Instagram: https://instagram.com/hiteshChoudharyOfficial</p>
+        <p>Instagram: https://instagram.com/vishalfernandes</p>
       </header>
     </div>
   );
