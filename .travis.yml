@@ -15,7 +15,7 @@ deploy:
     secure: "$SECRET_ACCESS_KEY"
   region: "ap-south-1"
   app: "docker-youtube"
-  env: "DockerYoutube-env-1"
+  env: "DockerYoutube-env"
   bucket_name: "elasticbeanstalk-ap-south-1-334562219858"
   bucket_path: "docker-youtube"
   on:
